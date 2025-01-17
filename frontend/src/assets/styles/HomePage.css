@@ -1,0 +1,20 @@
+/* src/assets/styles/HomePage.css */
+
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
+h1 {
+  color: #2D3748; /* Charcoal Gray */
+}
+
+p {
+  color: #4A5568; /* Darker Gray */
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
