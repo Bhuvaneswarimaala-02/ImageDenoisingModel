@@ -25,6 +25,8 @@ const HomePage = () => {
       fontSize: "3rem",
       color: "#2D3748", // Charcoal Gray
       marginBottom: "20px",
+      textAlign:"center",
+
     },
     description: {
       fontSize: "1.5rem",

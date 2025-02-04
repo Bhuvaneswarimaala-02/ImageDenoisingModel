@@ -66,7 +66,7 @@ const ProcessImage = () => {
           </button>
         </div>
         <div className="processed-image-section">
-          <h2 className="processed-image-title">Processed Image</h2>
+          {/* <h2 className="processed-image-title">Processed Image</h2> */}
           <div ref={canvasRef} className="processed-canvas"></div>
         </div>
       </div>
